@@ -3,11 +3,11 @@ I am Ammo, a student currently exploring the transformative power of Generative 
 
 Notes on AI Assistant
 
-The exact prompt I used:*
+The exact prompt I used:
 "Please write the following content directly into the file assistant_draft.md : I am Ammo, a student currently exploring the transformative power of Generative AI. Before returning to my studies, I served as a Global Supply Manager at Apple, where I was responsible for the engineering management of new Mac products..."
 
-What the assistant did well:*
+What the assistant did well:
 It captured my professional background accurately and used sophisticated industry terminology (like DfM and supply chain resilience) that fits my experience.
 
-Anything you needed to clarify or adjust:*
+Anything you needed to clarify or adjust:
 Initially, I had to ensure the assistant didn't just talk about AI in general, but specifically linked it to the balance of "extreme design" and "commercial viability" which was core to my role at Apple.
